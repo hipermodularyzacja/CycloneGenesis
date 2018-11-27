@@ -5,7 +5,7 @@ The Book.
 cyclogenesis
 https://en.wikipedia.org/wiki/Cyclogenesis
 
-![cyclone Hurricane](https://en.wikipedia.org/wiki/Eye_(cyclone)#/media/File:Hurricane-en.svg)
+![cyclone Hurricane](https://upload.wikimedia.org/wikipedia/commons/4/4f/Hurricane-en.svg)
 
 ## DE
 Zyklogenese
