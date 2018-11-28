@@ -16,7 +16,7 @@ Wykres przedstawiający zależności pomiędzy poziomem posiadanych umiejętnoś
 
 Csíkszentmihályi, badając odczucie uskrzydlenia, wyróżnił szereg jego cech charakterystycznych, o których istnieniu zapewniali ludzie pogrążeni w angażującym ich działaniu. Zaliczył do nich następujące cechy, zwane też czasami składnikami przepływu:
 
-    Na każdym etapie działania pojawiają się wyraźne cele do zrealizowania. Każdy podejmowany krok przechodzi płynnie w kolejny, tak jakby czynność była z góry przez wykonującego zaplanowana. U wykonującego pojawia się odczucie pewności co w danym momencie powinno być zrobione.
+Na każdym etapie działania pojawiają się wyraźne cele do zrealizowania. Każdy podejmowany krok przechodzi płynnie w kolejny, tak jakby czynność była z góry przez wykonującego zaplanowana. U wykonującego pojawia się odczucie pewności co w danym momencie powinno być zrobione.
     Częste pojawianie się informacji zwrotnej co do prawidłowości realizacji działania. Informacje zwrotne przyjmowane są bez zbytniego przetwarzania oraz interpretacji, tak że w każdym momencie osoba działająca wie, bez zastanawiania się, co powinno być zrobione.
     Istnienie równowagi pomiędzy poziomem umiejętności posiadanych przez działającego a stawianymi mu wymaganiami lub wyzwaniami. Człowiek ma poczucie panowania nad sytuacją pomimo wysokich wymagań, jakie są mu stawiane.
     Całkowite skoncentrowanie uwagi na podejmowanej czynności. Skupienie przychodzi tutaj naturalnie i bez najmniejszego wysiłku. Skoncentrowanie uwagi jest dla człowieka doznającego przepływu jak oddychanie.
