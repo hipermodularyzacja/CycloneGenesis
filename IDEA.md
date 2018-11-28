@@ -83,4 +83,10 @@ CZyli takie testy jednostkowe.
 ## Testy jednostkowe na papierze
 W przypadku programowania warto juz przed pisaniem kodu spisac pytania, na ktore programista powinien sam przed soba odpowiedziec gdy aplikacja bedzie gotowa, ale specyfikacja i testy na papierze musza byc gotowe przed pisaniem programu.
 
+## Moc Flow
+moc flow znajduje sie tam, gdzie w innych metodykach widac slabosc, czyli w wolnosci podejmowania decyzji.
+Tutaj sama specyfikacja i testy na papierze musza byc uzdgonione ale dalej zaczyna sie typowa praca programisty samego ze soba.
+To on sama musi znalezc droge a gdy nie umie, to znajdzie to ktos inny.
+Jesli ktos nie czuje, ze moze to wykonanc w okreslonym czasie to zajmuje sie tym ktos inny.
 
+Nie ma tutaj odrabiania pracy za kogos, jest po prostu pragmantyczne podjecie decyzji, o wykorzystaniu potencjalu, ktory ktos ma tam gdzie to jest efektywne, zamiast realizowac projekty za kare.
