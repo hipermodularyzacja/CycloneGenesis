@@ -6,5 +6,5 @@ Według autora przepływ można tłumaczyć jako słowo, którym ludzie opisują
 
 Przepływ charakteryzuje się brakiem samoświadomości, utratą poczucia czasu oraz całkowitą wolnością od strachu i lęku. Uskrzydlenie zaliczane jest do emocji pozytywnych, wzbudzanych przez teraźniejszość. 
 
-https://upload.wikimedia.org/wikipedia/commons/6/6a/Challenge_vs_skill_pl.png
+![flow](https://upload.wikimedia.org/wikipedia/commons/6/6a/Challenge_vs_skill_pl.png)
 By Ann.Kla.Joa. - Praca własna, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=26528893
