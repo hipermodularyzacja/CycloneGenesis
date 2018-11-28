@@ -24,4 +24,4 @@ ABy udowdnic, ze to dziala, tworze od prawie 3 tygodni materialy i kod do moich 
 Mozna to latwo sprawdzic na profilu uzytkownika:
 
 https://github.com/tom-sapletta-com
-
+![profile](my_github_profile_calendar.jpg)
