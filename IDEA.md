@@ -74,11 +74,13 @@ Komunikacjato spora czesc w projekcie.
 Wiec rodza sie kolejne pytania, skoro mamy zrezygnowac w zespole z komunikacji, to na pewno rezultaty celu beda inne od oczekiwanych.
 Tak, masz racje, beda inne o ile nie  zostana wczesniej zdefiniowane jako male czesci wiekszej calosci, a do tego nie potrzeba dlugich rozmow, gdyz to wynika z oczekiwan klienta i musi byc techniczne zgodne z tym co obecnie istnieje.
 
-## Testy jednostkowe na papierze
+#### rezultat celu
 Dodatkowo, sam rezultat celu jaki chcemy komus zlecic do wykonania, powinien byc bardzo ograniczony, nie powinnismy delegowac czegos czego nie mozemy w krotkiej charkterystyce opisac i zdefiniowac zasady sprawdzania czy takie przyszle rozwiazanie wykonane przez kogos bedzie spelnialo zalozenia.
 
 Wiec zamiast charakterystyki w postaci stwierdzen, powinno zawierac zdania pytajace, majce na celu odpowiedziec TAK/NIE
 CZyli takie testy jednostkowe.
 
+## Testy jednostkowe na papierze
+W przypadku programowania warto juz przed pisaniem kodu spisac pytania, na ktore programista powinien sam przed soba odpowiedziec gdy aplikacja bedzie gotowa, ale specyfikacja i testy na papierze musza byc gotowe przed pisaniem programu.
 
 
