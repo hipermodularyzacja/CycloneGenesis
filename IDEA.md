@@ -25,3 +25,60 @@ Mozna to latwo sprawdzic na profilu uzytkownika:
 
 https://github.com/tom-sapletta-com
 ![profile](my_github_profile_calendar.jpg)
+
+Jak widac, przed 3 tygodniami kilka razy w roku cos zmienialem, jednak postanowilem to zmienic.
+
+## Cel: codzienna systematyczna praca
+Celem nie jest ukonczenie projektu, ale pracowanie nad nim.
+Byc moze to dziwne, bo teoretycznie kazdy projekt powinien miec poczatek i koniec.
+
+## Co to jest Projekt
+Projekt rozumiem jako zdefiniowany rezultat celu jaki chce osiagnac.
+Wiec rezultatu celu np projektu DevOpsTermninal, jest dostarczenie rozwiazania terminalu dla devops.
+Terminal taki jest okreslonym celem, ale projekt nie konczy sie na jego zdefiniowaniu ani dostarczeniu rozwiazania, 
+projekt taki to proces, wiec sam w sobie jak proces moze byc nieustanny, niekonczacy sie.
+
+W dalszych krokach wyjasnien bede uzywal sformulowania bardziej preczyzyjnego:
++ rezultat celu
+
+## Poczatek
+Dlatego, ze tak definiuje projekt: rezultat celu, nie stawiam kropki, po prostu realizuje kolejne etapy, zmiany, naprawy kodu.
+
+### Jak zaczac
+Aby zrealizowac cel, trzeba go zdefiniowac, ale zrealizowac go mozna na wiele sposobow, tworzac rownolegle wiele projektow, ktore w sumie dadza efekt.
+
+W tym rozumieniu mozna np. zaczac rownolegle frontend i backend w 2 wersjach:
+
+1. Wersja aplikacji
++ Frontend: Jquery UI
++ Backend: PHP
+
+2. Wersja aplikacji
++ Frontend: Bootstrap
++ Backend: nodejs
+
+
+W przypadku zrealizowania jednej z wersji aplikacji osiagamy okreslony cel.
+
+### Pytania
+Oczywiscie nasowaja sie pytania:
++ po co zaczynac 2 aplikacje w ramach tego samego celu projektu jednoczesnie?
++ po co tracic czas na planowanie dwoch wersji tego samego?
+
+Odpowiedz wynika z samej natury flow.
+Jesli jestes w stanie flow, nie potrzebujesz realizowac wg planu na papierze, po prostu robisz go do momentu az zabraknie Tobie czasu.
+Gdy masz ped do robienia czegos, zrobisz to znacznie szybciej niz gdy musisz o wszystko pytac innych i uczyc sie komunikacji na kazdym etapie.
+Komunikacjato spora czesc w projekcie.
+
+### Pytania
+Wiec rodza sie kolejne pytania, skoro mamy zrezygnowac w zespole z komunikacji, to na pewno rezultaty celu beda inne od oczekiwanych.
+Tak, masz racje, beda inne o ile nie  zostana wczesniej zdefiniowane jako male czesci wiekszej calosci, a do tego nie potrzeba dlugich rozmow, gdyz to wynika z oczekiwan klienta i musi byc techniczne zgodne z tym co obecnie istnieje.
+
+## Testy jednostkowe na papierze
+Dodatkowo, sam rezultat celu jaki chcemy komus zlecic do wykonania, powinien byc bardzo ograniczony, nie powinnismy delegowac czegos czego nie mozemy w krotkiej charkterystyce opisac i zdefiniowac zasady sprawdzania czy takie przyszle rozwiazanie wykonane przez kogos bedzie spelnialo zalozenia.
+
+Wiec zamiast charakterystyki w postaci stwierdzen, powinno zawierac zdania pytajace, majce na celu odpowiedziec TAK/NIE
+CZyli takie testy jednostkowe.
+
+
+
