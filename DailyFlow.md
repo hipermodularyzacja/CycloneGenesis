@@ -20,3 +20,23 @@ Pisac malo ale w wielu etapach.
 Gdyz wowczas kazdy etap moze byc wyelimnowany lub zastapiony, dzieki czemu latwiej jest zbudowac calosc, z malych wymiennych cegielek.
 
 ## Male wymienne moduly
+
+Podobnie jest z ta ksiazka,
+obecnie tworze kilka projektow jednoczesnie i pozwalam sobie na tworzenie czegos co nie ma bezposrednio wspolnego celu.
+Gdyz ta ksiazka nie jest czescia projektu w rozumieniu realizacji celu DevOpsTerminal
+Jednak w innym rozumieniu jest rozszerzeniem projektu DevOpsTerminal.
+
+Ta kasiazka pozwala mi zglebic nature tworzenia projektow i pozwala mi lepiej zrozumiec to w jaki sposob cos robie.
+jest to samoksztalcenie sie.
+
+W codziennej typowej pracy nie ma zbyt wiele czasu na to, ewentualnie jeden raz w tygodniu.
+
+Tutaj nie ma tego problöemu, gdyz kazdy czas jest dobry.
+
+Wiec pisze te rzeczy, aby lepiej zrozumiec i wykorzytsac to co robie, tym samym juz teraz moge lepiej wykorzytsac to co umiem.
+
+## Czas na podsumowanie
+Zamiast czekac do konca projektu, warto zastanowic sie przed jego projektem, czy w ogole powinien byc robiony tak jak zostal zaplanowany, bo moze jazda bez trzymanki planu da lepsze rezultaty?
+
+## Podsumowanie
+DevOpsTerminal zostanie i tak stworzony, ale dzieki lepszemu zrozumienuiu otoczenia, bede w stanie lepiej przygotowac aplikacje jeszcze przed jej wykonaniem i kolejnymi krokami, jakimi niewatpliwie bedzie refaktoryzacja.
