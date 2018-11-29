@@ -7,3 +7,16 @@ tylko jako
 - czas potrzebny na badania i nauke, zrozumienie problemu i dobrania najlepszego rozwiazania.
 
 
+## Przyklad 1
+
+Moim celem bylo nauczenie sie zarzadzania wieloma projektami jednoczesnie, tak by szybko zbuowaca cala infrastrukture i zarzadzac rozwojem projektu.
+
+Korzysci:
+1. Nauka panelu Plesk
+2. Nauka rozwiazaywaniu problemow Plesk
+3. Nauka wykoryzstania narzedzi wchodzace w sklad panelu plesk w celu efektywnego tworzenia i zarzadzania aplikacji
+4. Rezultatem jest tez kilkanasci stron internetowych, ktore w tej sytacji powstalo.
+
+Te strony internetowe powstale by i tak, ale tworzac je hurtowo, zaoszcedzilem czas, ktory byl wykorzystany na nauke pleska.
+
+Moglbym zrobic to samo, samodzielnie instalujac te instalacje i zrobilbym to w podobnym czasie ale nie zdobylbym dodatkwoej wiedzy, np o panelu plesk i benefitow zwiazanych z tym panelem na przyszlosc, np oblsuga docker, CI 
