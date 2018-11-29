@@ -1,7 +1,9 @@
 # Wstep
 Ten sposob funkcjonowania bedzie sprzyjal osobom tworczym, otwartym na nauke,
 tym, ktorzy maja juz jakies doswiadczenie w realizacji projektow.
-Nie jest to rozwiazanie dla kazdych 
+Nie jest to rozwiazanie dla kazdego, gdyz nie kazdy ma taka wiedze by podejmowac decyzje co do calej drogi rozwoju projektu,
+dlatego warto wziac pod uwage to, ze w przapadku dzialania w grupie, warto znalezc kogos kto bylby ekspertem wspierajacym dostepnym dla realizatorow.
+W przypadku smaodzielnego funkcjonowania mozna wiele rzeczy sie nauczyc po drodze samemu wykorzystujac kod juz napisany przez innych ludzi poprzez repozytoria na github, itd
 
 # Jak realizowac codzienne zadania w stanie flow i co zrobic, jak nie ma flow?
 Mysle, ze najlepszym rozwiazaniem, jest brak presji, takze w kwestii zastanawiania sie czy flow bedzie jutro czy tez nie.
