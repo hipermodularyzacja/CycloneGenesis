@@ -8,8 +8,9 @@ tylko jako
 
 
 ## Przyklad 1
-
-Moim celem bylo nauczenie sie zarzadzania wieloma projektami jednoczesnie, tak by szybko zbuowaca cala infrastrukture i zarzadzac rozwojem projektu.
+Cel: nauczenie sie zarzadzania wieloma projektami jednoczesnie
++ szybko zbuowaca cala infrastrukture
++ zarzadzac rozwojem projektu.
 
 ### Korzysci:
 1. Nauka panelu Plesk
@@ -23,6 +24,8 @@ Moglbym zrobic to samo, samodzielnie instalujac te instalacje i zrobilbym to w p
 
 
 ## Przyklad 2
+Cel: 
+
 W zwiazku z tym ze mam juz dzialajace strony www
 chcialbym teraz zajac sie tworzeniem wielu aplikacji i procesem ich uruchamiania na serwerze.
 Do tego projektu wykorzystam platforme openshift na drugim serwerze.
@@ -32,6 +35,9 @@ https://www.openshift.com/
 aplikacje otwarte na wielka skale, mogaca w oparciu na openshift szybko ewoluowac
 
 
+## Przyklad 3
+Cel: Pisac zrozumialy kod
+
 Dzieki realizacji wielu projektow na raz zdobywam doswiadczenie w zarazadzaniu projektami
 oraz w programowaniu czego  co musza zrozumiec inni,
-czyli uczew sie pisac zrozumiale, bo kazdy kto czyta musi to zrozumiec
+czyli ucze sie pisac zrozumiale, bo kazdy kto czyta musi to zrozumiec
