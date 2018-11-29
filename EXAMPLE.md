@@ -20,3 +20,13 @@ Korzysci:
 Te strony internetowe powstale by i tak, ale tworzac je hurtowo, zaoszcedzilem czas, ktory byl wykorzystany na nauke pleska.
 
 Moglbym zrobic to samo, samodzielnie instalujac te instalacje i zrobilbym to w podobnym czasie ale nie zdobylbym dodatkwoej wiedzy, np o panelu plesk i benefitow zwiazanych z tym panelem na przyszlosc, np oblsuga docker, CI 
+
+
+## Przyklad 2
+W zwiazku z tym ze mam juz dzialajace strony www
+chcialbym teraz zajac sie tworzeniem wielu aplikacji i procesem ich uruchamiania na serwerze.
+Do tego projektu wykorzystam platforme openshift na drugim serwerze.
+https://www.openshift.com/
+
+## Korzysci
+aplikacje otwarte na wielka skale, mogaca w oparciu na openshift szybko ewoluowac
