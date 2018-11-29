@@ -30,3 +30,8 @@ https://www.openshift.com/
 
 ## Korzysci
 aplikacje otwarte na wielka skale, mogaca w oparciu na openshift szybko ewoluowac
+
+
+Dzieki realizacji wielu projektow na raz zdobywam doswiadczenie w zarazadzaniu projektami
+oraz w programowaniu czego  co musza zrozumiec inni,
+czyli uczew sie pisac zrozumiale, bo kazdy kto czyta musi to zrozumiec
