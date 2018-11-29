@@ -11,7 +11,7 @@ tylko jako
 
 Moim celem bylo nauczenie sie zarzadzania wieloma projektami jednoczesnie, tak by szybko zbuowaca cala infrastrukture i zarzadzac rozwojem projektu.
 
-Korzysci:
+### Korzysci:
 1. Nauka panelu Plesk
 2. Nauka rozwiazaywaniu problemow Plesk
 3. Nauka wykoryzstania narzedzi wchodzace w sklad panelu plesk w celu efektywnego tworzenia i zarzadzania aplikacji
@@ -28,7 +28,7 @@ chcialbym teraz zajac sie tworzeniem wielu aplikacji i procesem ich uruchamiania
 Do tego projektu wykorzystam platforme openshift na drugim serwerze.
 https://www.openshift.com/
 
-## Korzysci
+### Korzysci
 aplikacje otwarte na wielka skale, mogaca w oparciu na openshift szybko ewoluowac
 
 
