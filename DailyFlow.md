@@ -13,7 +13,7 @@ Sami wyznaczamy sobie cele i je realizujemy, mamy tez zdefiniowany termin, wiec 
 Co istotne, zadania rowniez dopieramy z sami, nawet je tworzymy, gdyz to czynnosc pozadana, pozwalajaca na sprecyzowanie zadan.
 
 # Przyklad
-Rezultatem celu ma byc aplikacja do zdalnego wywlywania termiana przez przegladarke
+Rezultatem celu ma byc aplikacja do zdalnego wywolywania terminalu przez przegladarke
 Tworze aplikacje DevOpsTerminal, w ktorym zamierzam frotnend stworzyc w Jquery UI
 po rozpoczeciu etapu frontend, mam juz troche kodu, ale po rozmowie z kolega mysle, ze
 mogloby to dzialac lepiej na Bootstrap, bardziej pod katem np aplikacji mobilnych.
@@ -33,17 +33,16 @@ obecnie tworze kilka projektow jednoczesnie i pozwalam sobie na tworzenie czegos
 Gdyz ta ksiazka nie jest czescia projektu w rozumieniu realizacji celu DevOpsTerminal
 Jednak w innym rozumieniu jest rozszerzeniem projektu DevOpsTerminal.
 
-Ta kasiazka pozwala mi zglebic nature tworzenia projektow i pozwala mi lepiej zrozumiec to w jaki sposob cos robie.
-jest to samoksztalcenie sie.
+Ta analiza pozwala mi zglebic nature tworzenia projektow i pozwala mi lepiej zrozumiec sposob realizacji celow.
 
-W codziennej typowej pracy nie ma zbyt wiele czasu na to, ewentualnie jeden raz w tygodniu.
+W codziennej pracy nie ma zbyt wiele czasu na to, ewentualnie jeden raz w tygodniu.
 
-Tutaj nie ma tego problöemu, gdyz kazdy czas jest dobry.
+Tutaj nie ma tego problemu, gdyz kazdy czas jest dobry.
 
-Wiec pisze te rzeczy, aby lepiej zrozumiec i wykorzytsac to co robie, tym samym juz teraz moge lepiej wykorzytsac to co umiem.
+Wiec pisze te rzeczy, aby lepiej zrozumiec i wykorzystac to co robie, tym samym juz teraz moge lepiej wykorzystac to co umiem.
 
 ## Czas na podsumowanie
-Zamiast czekac do konca projektu, warto zastanowic sie przed jego projektem, czy w ogole powinien byc robiony tak jak zostal zaplanowany, bo moze jazda bez trzymanki planu da lepsze rezultaty?
+Zamiast czekac do konca projektu, warto zastanowic sie przed jego rozpoczeciem, czy w ogole powinien byc robiony tak jak zostal zaplanowany, bo moze jazda bez trzymanki planu da lepsze rezultaty?
 
 ## Podsumowanie
 DevOpsTerminal zostanie i tak stworzony, ale dzieki lepszemu zrozumienuiu otoczenia, bede w stanie lepiej przygotowac aplikacje jeszcze przed jej wykonaniem i kolejnymi krokami, jakimi niewatpliwie bedzie refaktoryzacja.
