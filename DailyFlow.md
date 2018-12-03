@@ -30,8 +30,8 @@ Gdyz wowczas kazdy etap moze byc wyelimnowany lub zastapiony, dzieki czemu latwi
 
 Podobnie jest z ta ksiazka,
 obecnie tworze kilka projektow jednoczesnie, ktore z osobna sluza zdefiniowanemu celowi, poprzez ktory ucze sie realizowac projekty w jak najwydajnieszy sposob.
-Gdyz ta ksiazka nie jest czescia projektu w rozumieniu realizacji celu DevOpsTerminal
-Jednak w innym rozumieniu jest rozszerzeniem projektu DevOpsTerminal.
+Np. projekt DevOpsTerminal sluzy do wydajniejszej obslugi wielu serwerow i skryptow.
+Przy okazji staram sie zapisywac moje przemyslenia i wskazowki na przyszlosc dla innych realizowanych projektow.
 
 Ta analiza pozwala mi zglebic nature tworzenia projektow i pozwala mi lepiej zrozumiec sposob realizacji celow.
 
