@@ -29,7 +29,7 @@ Gdyz wowczas kazdy etap moze byc wyelimnowany lub zastapiony, dzieki czemu latwi
 ## Male wymienne moduly
 
 Podobnie jest z ta ksiazka,
-obecnie tworze kilka projektow jednoczesnie i pozwalam sobie na tworzenie czegos co nie ma bezposrednio wspolnego celu.
+obecnie tworze kilka projektow jednoczesnie, ktore z osobna sluza zdefiniowanemu celowi, poprzez ktory ucze sie realizowac projekty w jak najwydajnieszy sposob.
 Gdyz ta ksiazka nie jest czescia projektu w rozumieniu realizacji celu DevOpsTerminal
 Jednak w innym rozumieniu jest rozszerzeniem projektu DevOpsTerminal.
 
