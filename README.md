@@ -1,6 +1,11 @@
 # CycloneGenesis
 The Book. 
 
+## Why
+Material na mala publikacje w cieniu projektu 100EUR
+https://github.com/tom-sapletta-com/100EUR
+
+
 ## EN
 cyclogenesis
 https://en.wikipedia.org/wiki/Cyclogenesis
