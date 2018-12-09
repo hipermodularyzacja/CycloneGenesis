@@ -1,8 +1,8 @@
 # Daily Flow
 Tworzenie małych i autonomicznych części aplikacji, mających cechy:
-+ readable
-+ managable
-
++ readable - łatwego do czytania, chodzi o forme, zeby bylo duzo akapitów, czyli funkcji i małe rozdziały, czyli klas
++ understable - zrozumiałego w odniesieniu do samego kodu, pisać nazwy zmiennych i funkcji w sposob klarowny, jeśli nazwa jest długa to nie jest to bład, a wręcz pożądane, gdyż to samokomentujacy się kod
++ manageable (replaceable) - zarządzalne, wymianialne, czyli modułowa konstrukcja, łatwa to zastąpienia struktura i architektura, tak by łatwo wymienić poszczególne klasy i biblioteki, itp.
 ## Wstep
 Daily Flow skupia się na codziennym wykorzystaniu potencjału twórczego do wypracowania powtarzalnych procesów i uzyskania powtarzalnych produktów realizując automatyzację.
 Twórcze działanie powinno być wykorzystane w każdym działaniu, aby uzyskać najlepsze efekty na małym odcinku produkcji.
