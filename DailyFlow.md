@@ -3,8 +3,12 @@ Daily Flow skupia się na codziennym wykorzystaniu potencjału twórczego do wyp
 Twórcze działanie powinno być wykorzystane w każdym działaniu, aby uzyskać najlepsze efekty na małym odcinku produkcji.
 Wyspecjalizowane procesy połączone w schematach pozwalających na uzyskanie oczekiwanych efektów.
 
-## Cel
+## Cel, bądź i pozostań produktywny na długi czas
 Realizacja programowanych i automatycznie wykonywanych i testowanych procesów.
+
+## Goal, be & stay productive for long term.
+
+
 
 ## Dokumentacja i Statystyka
 W tej metodzie konieczne jest tworzenie standardów na poziomie każdej decyzji.
