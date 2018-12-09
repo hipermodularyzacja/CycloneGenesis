@@ -98,6 +98,6 @@ W przypadku realizacji małych modułów składajacych się na dużą aplikację
 ## Tradycyjne programowanie
 W obecnej postaci wiele refaktoryzacji ma charakter pielęgnacji kodu, co nie jest potrzebne, gdyż to co realizuje kod jest istotne a nie jak wygląda.
 
-W przypadku tradycjynego ulepszania, refaktoryzacji, poprawiania, trudno o tworzenie optymalnego kodu, gdyż kodem jest cały system, łatwiej zarządzać małymi wymienialnymi cegiełkami systemu i tym zajmuje się właśnie DailyFlow, skupione na codziennym wyniku.
+W przypadku tradycyjnego ulepszania, refaktoryzacji, poprawiania, trudno o tworzenie optymalnego kodu, gdyż kodem jest cały system, łatwiej zarządzać małymi wymienialnymi cegiełkami systemu i tym zajmuje się właśnie DailyFlow, skupione na tworzeniu małej działającej części systemu.
 
 
