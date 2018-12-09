@@ -1,4 +1,16 @@
 # Wstep
+Daily Flow skupia się na codziennym wykorzystaniu potencjału twórczego do wypracowania powtarzalnych procesów i uzyskania powtarzalnych produktów realizując automatyzację.
+Twórcze działanie powinno być wykorzystane w każdym działaniu, aby uzyskać najlepsze efekty na małym odcinku produkcji.
+Wyspecjalizowane procesy połączone w schematach pozwalających na uzyskanie oczekiwanych efektów.
+
+## Cel
+Realizacja programowanych i automatycznie wykonywanych i testowanych procesów.
+
+## Dokumentacja i Statystyka
+W tej metodzie konieczne jest tworzenie standardów na poziomie każdej decyzji.
+Dlatego potrzebna jest dokumentacja.
+Potrzebne są dane statystyaczne do mierzenia wydajności na poziomie każdego procesu
+
 
 ## Metoda 
 
