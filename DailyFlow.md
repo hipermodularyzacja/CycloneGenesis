@@ -1,7 +1,7 @@
 # Daily Flow
 Tworzenie małych i autonomicznych części aplikacji, mających cechy:
-readable
-managable
++ readable
++ managable
 
 ## Wstep
 Daily Flow skupia się na codziennym wykorzystaniu potencjału twórczego do wypracowania powtarzalnych procesów i uzyskania powtarzalnych produktów realizując automatyzację.
