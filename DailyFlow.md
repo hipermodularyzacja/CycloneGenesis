@@ -1,4 +1,5 @@
-# Wstep
+# Daily Flow
+## Wstep
 Daily Flow skupia się na codziennym wykorzystaniu potencjału twórczego do wypracowania powtarzalnych procesów i uzyskania powtarzalnych produktów realizując automatyzację.
 Twórcze działanie powinno być wykorzystane w każdym działaniu, aby uzyskać najlepsze efekty na małym odcinku produkcji.
 Wyspecjalizowane procesy połączone w schematach pozwalających na uzyskanie oczekiwanych efektów.
@@ -44,8 +45,12 @@ Sami wyznaczamy sobie cele i je realizujemy, mamy tez zdefiniowany termin, wiec 
 
 Co istotne, zadania rowniez dopieramy z sami, nawet je tworzymy, gdyz to czynnosc pozadana, pozwalajaca na sprecyzowanie zadan.
 
-# Przyklad
-Rezultatem celu ma byc aplikacja do zdalnego wywolywania terminalu przez przegladarke
+## Zadanie
+Rezultatem celu ma być aplikacja do zdalnego wywoływania komend w terminalu przez przegladarkę.
+
+# Przykład
+
+
 Tworze aplikacje DevOpsTerminal, w ktorym zamierzam frotnend stworzyc w Jquery UI
 po rozpoczeciu etapu frontend, mam juz troche kodu, ale po rozmowie z kolega mysle, ze
 mogloby to dzialac lepiej na Bootstrap, bardziej pod katem np aplikacji mobilnych.
