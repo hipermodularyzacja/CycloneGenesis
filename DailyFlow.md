@@ -3,6 +3,9 @@ Tworzenie małych i autonomicznych części aplikacji, mających cechy:
 + readable - forma kodu łatwa do czytania, dużo akapitów, czyli funkcji i małe rozdziały, czyli klasy
 + understable - zrozumiałego w odniesieniu do samej treści kodu, pisać nazwy zmiennych i funkcji w sposob klarowny
 + manageable (replaceable) - zarządzalne, wymianialne, czyli modułowa konstrukcja, łatwa to zastąpienia struktura i architektura, tak by łatwo wymienić poszczególne klasy i biblioteki, itp.
+
+https://tom.sapletta.pl/jak-wykonac/pisarz-artysta-poeta-i-dobre-rady-oraz-wzorce/
+
 ## Wstep
 Daily Flow skupia się na codziennym wykorzystaniu potencjału twórczego do wypracowania powtarzalnych procesów i uzyskania powtarzalnych produktów realizując automatyzację.
 Twórcze działanie powinno być wykorzystane w każdym działaniu, aby uzyskać najlepsze efekty na małym odcinku produkcji.
