@@ -1,4 +1,8 @@
 # Daily Flow
+Tworzenie małych i autonomicznych części aplikacji, mających cechy:
+readable
+managable
+
 ## Wstep
 Daily Flow skupia się na codziennym wykorzystaniu potencjału twórczego do wypracowania powtarzalnych procesów i uzyskania powtarzalnych produktów realizując automatyzację.
 Twórcze działanie powinno być wykorzystane w każdym działaniu, aby uzyskać najlepsze efekty na małym odcinku produkcji.
@@ -91,7 +95,9 @@ DevOpsTerminal zostanie i tak stworzony, ale dzięki lepszemu zrozumienuiu otocz
 
 W przypadku realizacji małych modułów składajacych się na dużą aplikację lub system, łatwe jest wymienianie źle funkcjonujących elementów, a poprzez Continnuos Integration łatwo dalej utrzymać aplikację działającą.
 
+## Tradycyjne programowanie
 W obecnej postaci wiele refaktoryzacji ma charakter pielęgnacji kodu, co nie jest potrzebne, gdyż to co realizuje kod jest istotne a nie jak wygląda.
 
+W przypadku tradycjynego ulepszania, refaktoryzacji, poprawiania, trudno o tworzenie optymalnego kodu, gdyż kodem jest cały system, łatwiej zarządzać małymi wymienialnymi cegiełkami systemu i tym zajmuje się właśnie DailyFlow, skupione na codziennym wyniku.
 
 
