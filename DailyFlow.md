@@ -28,8 +28,12 @@ Potrzebne są dane statystyaczne do mierzenia wydajności na poziomie każdego p
 
 Metoda nie tyle zarządzania, co wykorzystawnia własnego potencjału do szybkiego uzyskania wyników.
 Nie chodzi w tym o uzyskanie zgodnego w 100% efektu, ale by uzyskać efekt oraz narzędzia.
-Podstawą Flow jest doskonalenie warsztatu pracy i siebie samego a produkt - oprogramowanie, jest tylko produktem wykorzystywania tych narzędzi, zasad i technik.
 
+### Wykorzystanie 100%
+Podstawą Flow jest doskonalenie warsztatu pracy i siebie samego a nie tylko produktu - oprogramowania.
+Oprogramowanie jest tylko produktem wykorzystania tych narzędzi, zasad i technik.
+
+### Narzędzia
 Dzięki skupieniu na lepszych narzędziach można uzyskać lepsze produkty.
 Taki selfedevelopment, przyczynia się do szybkiego wzrostu całości a nie skupia się tylko na produkcie działań, ale przede wszystkim na działaniach, procesach i technikach.
 
