@@ -48,22 +48,27 @@ Co istotne, zadania rowniez dopieramy z sami, nawet je tworzymy, gdyz to czynnos
 ## Zadanie
 Rezultatem celu ma być aplikacja do zdalnego wywoływania komend w terminalu przez przegladarkę.
 
-# Przykład
+## Przykład nr 1
 
+Tworze aplikację DevOpsTerminal, w ktorej zamierzam stworzyć:
++ frontend z Jquery UI
+Po rozpoczeciu tworzenia frontend'u, mam juz trochę kodu.
+Po rozmowie z kolegą myślę, że lepszym rozwiązaniem byłby Bootstrap zamiast jqueryUI.
+Nie usuwając projektu z frontend'em Jquery UI, tworzę nowe repozytorium w którym implementuje to samo za pomocą innej technologii Bootstrap.
 
-Tworze aplikacje DevOpsTerminal, w ktorym zamierzam frotnend stworzyc w Jquery UI
-po rozpoczeciu etapu frontend, mam juz troche kodu, ale po rozmowie z kolega mysle, ze
-mogloby to dzialac lepiej na Bootstrap, bardziej pod katem np aplikacji mobilnych.
+## Wnioski
+Otwierając się na inne rozwiązania jeszcze w trakcie realizacji celu można zdobyć dodatkową wiedzę.
+Jednoczensie tez zbieramy więcej danych pod innym kątem, ale zawsze można wrócić do pierwszego projektu.
 
-Wiec nie usuwam projektu z frontendem Jquery UI, tylko tworze nowe repozytorium i pisze dalej inna implementacje tego samego.
+## Klocki, Moduły, Bricks
+Kluczem w takim podejsciu jest tworzenie za pomoca malych kroków, np realizacja w ciągu 8h ciągłej pracy.
+Pisanie oprogramowania w wielu etapach pozwala na uzyskanie większej sprawności, gdyż można kontrolować każdy mały element.
+Budować oprogramowanie z małych autonomicznych bloków-klocków.
+Wówczas kazdy etap może być łatwo wyelimnowany/zastapiony, dzieki czemu łatwiej jest zbudować całość, z małych wymiennych cegiełek.
+    
+    Male wymienne moduly
 
-W ten sposob zdobywam jednoczensie tez inne dane potrzebne do projektu i zawsze moge wrocic do pierwszego projektu.
-
-Kluczem w takim podejsciu jest tworzenie za pomoca malych krokow.
-Pisac malo ale w wielu etapach.
-Gdyz wowczas kazdy etap moze byc wyelimnowany lub zastapiony, dzieki czemu latwiej jest zbudowac calosc, z malych wymiennych cegielek.
-
-## Male wymienne moduly
+## Przykład nr 2
 
 Podobnie jest z ta ksiazka,
 obecnie tworze kilka projektow jednoczesnie, ktore z osobna sluza zdefiniowanemu celowi, poprzez ktory ucze sie realizowac projekty w jak najwydajnieszy sposob.
@@ -78,8 +83,15 @@ Tutaj nie ma tego problemu, gdyz kazdy czas jest dobry.
 
 Wiec pisze te rzeczy, aby lepiej zrozumiec i wykorzystac to co robie, tym samym juz teraz moge lepiej wykorzystac to co umiem.
 
-## Czas na podsumowanie
-Zamiast czekac do konca projektu, warto zastanowic sie przed jego rozpoczeciem, czy w ogole powinien byc robiony tak jak zostal zaplanowany, bo moze jazda bez trzymanki planu da lepsze rezultaty?
+## Planowanie projektu
+Zamiast czekać do końca projektu, warto zastanowić się przed jego rozpoczęciem, czy w ogóle powinien być realizowany tak jak został zaplanowany, bo może kontorlowane małe etapy poprzez DailyFlow dadzą lepsze rezultaty?
 
-## Podsumowanie
-DevOpsTerminal zostanie i tak stworzony, ale dzieki lepszemu zrozumienuiu otoczenia, bede w stanie lepiej przygotowac aplikacje jeszcze przed jej wykonaniem i kolejnymi krokami, jakimi niewatpliwie bedzie refaktoryzacja.
+## Refaktoryzacja poprzez zastępowanie
+DevOpsTerminal zostanie i tak stworzony, ale dzięki lepszemu zrozumienuiu otoczenia, będę w stanie lepiej przygotować aplikację jeszcze przed jej wykonaniem i kolejnymi krokami, jakimi niewątpliwie bedzie refaktoryzacja.
+
+W przypadku realizacji małych modułów składajacych się na dużą aplikację lub system, łatwe jest wymienianie źle funkcjonujących elementów, a poprzez Continnuos Integration łatwo dalej utrzymać aplikację działającą.
+
+W obecnej postaci wiele refaktoryzacji ma charakter pielęgnacji kodu, co nie jest potrzebne, gdyż to co realizuje kod jest istotne a nie jak wygląda.
+
+
+
