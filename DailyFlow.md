@@ -113,6 +113,9 @@ Klient + ktos techniczny uzgadaniaja co bedzie zrobione a programisci niech mysl
 
 
 ### Sklepik z modułami
-Wyobraźmy sobie sytuację, gdzie programisci mają sklepik, gdzie klient wewnętrzny lub/i zewnetrzny moze kupić to co chciałby mieć w swojej aplikacji.
-Jesli nie ma danego produktu, to pisze bezposrednio z programista i mowi, ze potrzebuje to i to, ale tego nie macie, prosze znajdzcie coś gotowego albo chociaz sprobujcie posklejać coś własnego za co będziecie odpowiedzialni i co bedziecie wspierać najlepiej na 10 lat do przodu.
+Wyobraźmy sobie sytuację, gdzie programiści mają sklepik, gdzie klient wewnętrzny lub/i zewnetrzny moze kupić to co chciałby mieć w swojej aplikacji.
+Jesli nie ma danego produktu (modułu), to kleint opisuje specyfikę i zamawia bezposrednio u programisty.
+Programiści tworzą moduł i wspierają go na kilka lat do przodu.
+
+Takie podejście zadowoli każdą stronę.
 
