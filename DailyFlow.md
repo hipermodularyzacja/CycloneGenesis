@@ -49,10 +49,10 @@ Sami wyznaczamy sobie cele i je realizujemy, mamy tez zdefiniowany termin, wiec 
 
 Co istotne, zadania rowniez dopieramy z sami, nawet je tworzymy, gdyz to czynnosc pozadana, pozwalajaca na sprecyzowanie zadan.
 
-## Zadanie
+### Zadanie
 Rezultatem celu ma być aplikacja do zdalnego wywoływania komend w terminalu przez przegladarkę.
 
-## Przykład nr 1
+### Przykład nr 1
 
 Tworze aplikację DevOpsTerminal, w ktorej zamierzam stworzyć:
 + frontend z Jquery UI
@@ -60,11 +60,11 @@ Po rozpoczeciu tworzenia frontend'u, mam juz trochę kodu.
 Po rozmowie z kolegą myślę, że lepszym rozwiązaniem byłby Bootstrap zamiast jqueryUI.
 Nie usuwając projektu z frontend'em Jquery UI, tworzę nowe repozytorium w którym implementuje to samo za pomocą innej technologii Bootstrap.
 
-## Wnioski
+### Wnioski
 Otwierając się na inne rozwiązania jeszcze w trakcie realizacji celu można zdobyć dodatkową wiedzę.
 Jednoczensie tez zbieramy więcej danych pod innym kątem, ale zawsze można wrócić do pierwszego projektu.
 
-## Klocki, Moduły, Bricks
+### Klocki, Moduły, Bricks
 Kluczem w takim podejsciu jest tworzenie za pomoca malych kroków, np realizacja w ciągu 8h ciągłej pracy.
 Pisanie oprogramowania w wielu etapach pozwala na uzyskanie większej sprawności, gdyż można kontrolować każdy mały element.
 Budować oprogramowanie z małych autonomicznych bloków-klocków.
@@ -72,7 +72,7 @@ Wówczas kazdy etap może być łatwo wyelimnowany/zastapiony, dzieki czemu łat
     
     Male wymienne moduly
 
-## Przykład nr 2
+### Przykład nr 2
 
 Podobnie jest z ta ksiazka,
 obecnie tworze kilka projektow jednoczesnie, ktore z osobna sluza zdefiniowanemu celowi, poprzez ktory ucze sie realizowac projekty w jak najwydajnieszy sposob.
@@ -83,7 +83,7 @@ Ta analiza pozwala mi zglebic nature tworzenia projektow i pozwala mi lepiej zro
 
 W codziennej pracy nie ma zbyt wiele czasu na to, ewentualnie jeden raz w tygodniu.
 
-Tutaj nie ma tego problemu, gdyz kazdy czas jest dobry.
+Tutaj nie ma tego problemu, gdyz każdy czas jest dobry.
 
 Wiec pisze te rzeczy, aby lepiej zrozumiec i wykorzystac to co robie, tym samym juz teraz moge lepiej wykorzystac to co umiem.
 
@@ -101,13 +101,16 @@ W obecnej postaci wiele refaktoryzacji ma charakter pielęgnacji kodu, co nie je
 W przypadku tradycyjnego ulepszania, refaktoryzacji, poprawiania, trudno o tworzenie optymalnego kodu, gdyż kodem jest cały system, łatwiej zarządzać małymi wymienialnymi cegiełkami systemu i tym zajmuje się właśnie DailyFlow, skupione na tworzeniu małej działającej części systemu.
 
 
-## Koszyk z zakupami
+## Rozwiązanie nr 1
+    
+    Koszyk z zakupami
+    
 W programowaniu dochodzi do skrajności , gdzie Tworzenie jest tańsze nić Refaktoryzacja. 
 Coś co w hardware-owym świecie jest nie do pomyślenia, gdyż łatwiej naprawić samochód niż wytworzyć nowy.
 
 Warto wprowadzić standardy w komunikacji i tworzeniu oprogramowania, gdzie zdefiniowane są moduły i klient może wybrać z istniejących.
 
-## Obecna sytuacja
+### Obecna sytuacja
 Obecnie sytuacja wyglada tak:
 Klient + ktos techniczny uzgadaniaja co bedzie zrobione a programisci niech mysla, niech buduja , bo przeciez wiemy czego chcemy a jak nawet nie, to przeciez programista to naprawi, bo przeciez mu placimy i to duzo!
 
