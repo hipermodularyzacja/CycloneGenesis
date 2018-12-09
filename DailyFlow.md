@@ -101,3 +101,18 @@ W obecnej postaci wiele refaktoryzacji ma charakter pielęgnacji kodu, co nie je
 W przypadku tradycyjnego ulepszania, refaktoryzacji, poprawiania, trudno o tworzenie optymalnego kodu, gdyż kodem jest cały system, łatwiej zarządzać małymi wymienialnymi cegiełkami systemu i tym zajmuje się właśnie DailyFlow, skupione na tworzeniu małej działającej części systemu.
 
 
+## Koszyk z zakupami
+W programowaniu dochodzi do skrajności , gdzie Tworzenie jest tańsze nić Refaktoryzacja. 
+Coś co w hardware-owym świecie jest nie do pomyślenia, gdyż łatwiej naprawić samochód niż wytworzyć nowy.
+
+Warto wprowadzić standardy w komunikacji i tworzeniu oprogramowania, gdzie zdefiniowane są moduły i klient może wybrać z istniejących.
+
+## Obecna sytuacja
+Obecnie sytuacja wyglada tak:
+Klient + ktos techniczny uzgadaniaja co bedzie zrobione a programisci niech mysla, niech buduja , bo przeciez wiemy czego chcemy a jak nawet nie, to przeciez programista to naprawi, bo przeciez mu placimy i to duzo!
+
+
+### Sklepik z modułami
+Wyobraźmy sobie sytuację, gdzie programisci mają sklepik, gdzie klient wewnętrzny lub/i zewnetrzny moze kupić to co chciałby mieć w swojej aplikacji.
+Jesli nie ma danego produktu, to pisze bezposrednio z programista i mowi, ze potrzebuje to i to, ale tego nie macie, prosze znajdzcie coś gotowego albo chociaz sprobujcie posklejać coś własnego za co będziecie odpowiedzialni i co bedziecie wspierać najlepiej na 10 lat do przodu.
+
