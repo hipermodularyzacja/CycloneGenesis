@@ -6,7 +6,7 @@ Tworzenie małych i autonomicznych części aplikacji, mających cechy:
 
 https://tom.sapletta.pl/jak-wykonac/pisarz-artysta-poeta-i-dobre-rady-oraz-wzorce/
 
-## Wstep
+## Wstęp
 Daily Flow skupia się na codziennym wykorzystaniu potencjału twórczego do wypracowania powtarzalnych procesów i uzyskania powtarzalnych produktów realizując automatyzację.
 Twórcze działanie powinno być wykorzystane w każdym działaniu, aby uzyskać najlepsze efekty na małym odcinku produkcji.
 Wyspecjalizowane procesy połączone w schematach pozwalających na uzyskanie oczekiwanych efektów.
