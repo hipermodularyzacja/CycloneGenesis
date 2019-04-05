@@ -6,6 +6,10 @@ Material na mala publikacje w cieniu projektu 100EUR
 https://github.com/tom-sapletta-com/100EUR
 
 
+### Analiza zawarta na tych kilkunastu stronach ma służyć odpowiedzi na pytania:
+- w jaki sposób można wpływać na efektywność w pracy, własną i współpracowników
+- jakimi metodami wpływać na chwilowe i długotrwałe utrzymanie stanu wysokiej efektywności podczas programowania i tworzenia dkokumentacji  rowziązań informatycznych
+
 ## EN
 cyclogenesis
 https://en.wikipedia.org/wiki/Cyclogenesis
